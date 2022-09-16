@@ -2,7 +2,7 @@
 
 Quickly standup localstack, create queues and monitor queue depth
 
-## Getting started -  Scripts
+## Getting started
 
 1. Install aws cli
 2. Add the following line added in your .bash_profile (or equivalent file).
