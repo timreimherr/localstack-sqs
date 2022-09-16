@@ -7,7 +7,7 @@ import (
 
 	"k8s.io/klog/v2"
 
-	"gitlab.sezzle.com/sezzle/tim.reimherr/localstack-sqs/monitor"
+	"github.com/timreimherr/localstack-sqs/monitor"
 )
 
 func main() {

@@ -1,4 +1,4 @@
 {
-	"RedrivePolicy": "{\"deadLetterTargetArn\":\"arn:aws:sqs:us-west-2:000000000000:notifications-dl-queue\",\"maxReceiveCount\":\"10\"}",
+	"RedrivePolicy": "{\"deadLetterTargetArn\":\"arn:aws:sqs:us-west-2:000000000000:dl-queue\",\"maxReceiveCount\":\"10\"}",
 	"MessageRetentionPeriod": "345600"
 }

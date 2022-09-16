@@ -4,7 +4,7 @@ Quickly standup localstack, create queues and monitor queue depth
 
 ## Getting started -  Scripts
 
-1. [Install aws cli](https://sezzle.atlassian.net/wiki/spaces/INFRA/pages/36307174/AWS+Access)
+1. Install aws cli
 2. Add the following line added in your .bash_profile (or equivalent file).
 ```
 alias awslocal='AWS_ACCESS_KEY_ID=test AWS_SECRET_ACCESS_KEY=test AWS_DEFAULT_REGION=us-west-2 aws --endpoint-url=http://localhost:4566'

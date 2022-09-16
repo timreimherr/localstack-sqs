@@ -1,4 +1,4 @@
-module gitlab.sezzle.com/sezzle/tim.reimherr/localstack-sqs
+module github.com/timreimherr/localstack-sqs
 
 go 1.17
 
